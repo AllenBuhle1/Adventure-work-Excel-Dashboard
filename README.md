@@ -5,6 +5,12 @@ It allows users to explore data dynamically through automated macros, pivot tabl
 
 ---
 
+## 📸 Preview
+
+![Dashboard Preview](preview.png)
+
+---
+
 ## 🚀 Features
 
 - Interactive **dashboards with charts & tables**
@@ -56,12 +62,6 @@ It allows users to explore data dynamically through automated macros, pivot tabl
 - Always keep a backup of the file before editing macros.
 - Large datasets may impact performance.
 - If macros are disabled, the dashboard will work in a **limited mode**.
-
----
-
-## 📸 Preview
-
-![Dashboard Preview](preview.png)
 
 ---
 
