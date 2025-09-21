@@ -61,7 +61,7 @@ It allows users to explore data dynamically through automated macros, pivot tabl
 
 ## 📸 Preview
 
-*(Add screenshots of your dashboard here for better presentation.)*
+![Dashboard Preview](preview.png)
 
 ---
 
