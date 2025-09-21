@@ -75,12 +75,6 @@ Contributions are welcome! If you'd like to add improvements or bug fixes:
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 👨‍💻 Author
 
 - **Buhle Allen**  
